@@ -1,0 +1,24 @@
+{
+  "name": "@ifc-js/ifcjs",
+  "version": "0.1.0",
+  "description": "Experimental monorepo for IFC.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "packages/web-ifc",
+    "packages/web-ifc-three/web-ifc-three",
+    "packages/web-ifc-viewer/web-ifc-viewer"
+  ],
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^24.0.0",
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "lerna": "^6.1.0",
+    "rollup": "^3.7.5",
+    "rollup-plugin-typescript2": "^0.34.1",
+    "yarn": "^1.22.19"
+  }
+}

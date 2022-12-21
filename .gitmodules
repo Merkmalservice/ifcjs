@@ -1,0 +1,9 @@
+[submodule "packages/web-ifc"]
+	path = packages/web-ifc
+	url = https://github.com/Merkmalservice/web-ifc.git
+[submodule "packages/web-ifc-three"]
+	path = packages/web-ifc-three
+	url = https://github.com/Merkmalservice/web-ifc-three.git
+[submodule "packages/web-ifc-viewer"]
+	path = packages/web-ifc-viewer
+	url = https://github.com/Merkmalservice/web-ifc-viewer.git
