@@ -10,7 +10,9 @@
   "license": "ISC",
   "workspaces": [
     "packages/web-ifc",
+    "packages/web-ifc-three",
     "packages/web-ifc-three/web-ifc-three",
+    "packages/web-ifc-viewer",
     "packages/web-ifc-viewer/web-ifc-viewer"
   ],
   "devDependencies": {
